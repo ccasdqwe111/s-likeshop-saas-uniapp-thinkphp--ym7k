@@ -1,4 +1,4 @@
-#likeshop多商户SaaS无限开独立版，前端采用uniapp，后端基于ThinkPHP框架（含种草社区等新插件）-ym7k
+# likeshop多商户SaaS无限开独立版，前端采用uniapp，后端基于ThinkPHP框架（含种草社区等新插件）-ym7k
 获取源码：ym7k.com/10663/likeshop多商户saas无限开独立版带uniapp前段thinkphp框架后端（含种草社区等新插件）-ym7k
 LikeShop种草社区功能深度解析——内容电商如何驱动多商户平台增长
 截图中的"种草社区"页面展示了LikeShop多商户SaaS无限开独立版的一个核心差异化功能。本文从产品和技术角度，解析种草社区的设计逻辑与运营价值。
